@@ -3,7 +3,7 @@ from typing import List
 from fastapi import APIRouter
 from fastapi.param_functions import Depends
 
-from api.db.dao.timeline_posts import TimelinePostsDAO
+from api.db.dao.timeline_posts_dao import TimelinePostsDAO
 from api.db.models.timeline_posts_model import TimelinePostsModel
 from api.web.api.timeline.public.schema import TimelineInputDTO, TimelinePostsDTO
 

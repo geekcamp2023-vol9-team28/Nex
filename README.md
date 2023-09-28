@@ -1,5 +1,5 @@
 # Nex
-geekcamp2023-vol9で作成したアプリです
+[【技育CAMP】マンスリーハッカソン　vol.9](https://talent.supporterz.jp/geekcamp/)のチーム28が作成したアプリです。
 
 
 # 開発環境
